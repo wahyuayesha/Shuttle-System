@@ -131,17 +131,23 @@ Simple **Tkinter GUI** to allow users to input sensor values and obtain predicte
 
 ## 🚀 How to Run
 
+## 🚀 How to Run
+
 ```bash
 # Clone repository
 git clone https://github.com/wahyuayesha/Shuttle-System.git
 
 # Open project
-cd your-repository
+cd Shuttle-System
 
-# Launch notebook
+# Install dependencies
+pip install pandas numpy matplotlib seaborn
+
+# Launch Jupyter Notebook
 jupyter notebook
 
-# Run shuttle_classification.ipynb
+# Open and run
+shuttle_classification.ipynb
 ```
 
 ---
