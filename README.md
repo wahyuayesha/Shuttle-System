@@ -131,8 +131,6 @@ Simple **Tkinter GUI** to allow users to input sensor values and obtain predicte
 
 ## 🚀 How to Run
 
-## 🚀 How to Run
-
 ```bash
 # Clone repository
 git clone https://github.com/wahyuayesha/Shuttle-System.git
