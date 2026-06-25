@@ -11,9 +11,7 @@ The goal is to assist operational monitoring and improve understanding of shuttl
 ---
 
 ## 📊 Dataset
-
-* Source: UCI Machine Learning Repository *(if applicable, replace with actual source)*
-* Dataset: Shuttle System Sensor Dataset
+* Dataset: Shuttle System Sensor Dataset (shuttle.csv)
 
 ### Features
 
